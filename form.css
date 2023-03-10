@@ -1,0 +1,90 @@
+form{
+	margin-left: 35%;
+	background-color:#F4F7F8;
+	width: 25%;
+	height: 1040px;
+	font-family:arial;
+	color:#384047;
+	border-radius: 5px;
+	box-shadow: 2px 2px 10px grey;
+}
+h1{
+	text-align: center;
+	padding-top: 10px;
+}
+.in{
+	width: 84%;
+	height: 45px;
+	margin-top: 7px;
+	background-color:#E8EEEF;
+	padding: 12px;
+	border: none;
+	margin-left: 30px;
+	color:#8A97A0;
+	border-radius: 5px;
+}
+textarea{
+	height: 100px;
+	width: 84%;
+	border-radius: 5px;
+	margin-top: 5px;
+	margin-left: 30px;
+	background-color:#E8EEEF;
+	border: none;
+}
+input{
+	margin-top: 8px;
+	margin-left: 30px;
+}
+.number{
+	border: 0px solid black;
+	padding: 2px 9px 4px 9px;
+	border-radius: 100%;
+	background-color:#5fcf80;
+	color: #FFFFFF;
+}
+.your{
+	margin-left: 5px;
+}
+#your1{
+	margin-top: 30px;
+	margin-left: 40px;
+	font-size: 20px;
+}
+#your2{
+	margin-top: 15px;
+	margin-left: 40px;
+	font-size: 20px;
+}
+.lab{
+	margin-left: 30px;
+}
+button{
+	margin-top: 0px;
+	margin-left: 30px;
+	width: 84%;
+	height: 50px;
+	background-color: #4bc970;
+	border: none;
+	border-radius: 5px;
+	color: #FFFFFF;
+	font-size: 18px;
+}
+button:hover{
+	background-color: #384047;
+}
+
+/*for mobile*/
+@media screen and (max-width:505px){
+	form{
+		width: 90%;
+		margin-left: 25px;
+		background-color:#F4F7F8;
+	}
+.in{
+	height: 45px;
+}
+button{
+	margin-top: 0px;
+}
+}
