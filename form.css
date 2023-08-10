@@ -72,19 +72,4 @@ button{
 }
 button:hover{
 	background-color: #384047;
-}
-
-/*for mobile*/
-@media screen and (max-width:505px){
-	form{
-		width: 90%;
-		margin-left: 25px;
-		background-color:#F4F7F8;
-	}
-.in{
-	height: 45px;
-}
-button{
-	margin-top: 0px;
-}
-}
+}
