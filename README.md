@@ -1,2 +1,5 @@
 # Signup Form
-Signup Form Using HTML/CSS With Responsiveness At (max-width:505)
+• Page Structured Using HTML
+• Designed Using CSS
+• Color Combinations
+• Good Looking UI
